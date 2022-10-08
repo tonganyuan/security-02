@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="security-02" />
+        <module name="code-demo" />
+        <module name="auth-demo" />
+        <module name="client-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
